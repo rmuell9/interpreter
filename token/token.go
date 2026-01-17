@@ -48,6 +48,8 @@ const (
 
 	// Data Structure
 	STRING = "STRING"
+	LBRACKET = "["
+	RBRACKET = "]"
 )
 
 var keywords = map[string]TokenType{
