@@ -1,13 +1,3 @@
-### Writing an Interpreter in Go
+# Interpreter
 
-Language Features:
-- C-lke syntax
-- Variable bindings
-- ints and bools
-- arithmetic
-- built-in functions
-- first-class and higher-order functions
-- closures
-- strings
-- arrays
-- dictionaries (hashes)
+Language made with C-like syntax and basic built-in functions and data structures
