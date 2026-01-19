@@ -2,7 +2,7 @@ package lexer
 
 import (
 	"testing"
-	"monkey/token"
+	"rmuell9.interpreter/token"
 )
 
 func TestNextToken(t *testing.T) {

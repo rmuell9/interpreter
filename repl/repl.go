@@ -4,10 +4,10 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"monkey/lexer"
-	"monkey/parser"
-	"monkey/evaluator"
-	"monkey/object"
+	"rmuell9.interpreter/lexer"
+	"rmuell9.interpreter/parser"
+	"rmuell9.interpreter/evaluator"
+	"rmuell9.interpreter/object"
 )
 
 const PROMPT = ">>> "

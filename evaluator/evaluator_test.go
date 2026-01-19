@@ -1,9 +1,9 @@
 package evaluator
 
 import (
-	"monkey/lexer"
-	"monkey/object"
-	"monkey/parser"
+	"rmuell9.interpreter/lexer"
+	"rmuell9.interpreter/object"
+	"rmuell9.interpreter/parser"
 	"testing"
 )
 
@@ -224,7 +224,7 @@ func TestErrorHandling(t *testing.T) {
 			"unknown operator: STRING - STRING",
 		},
 		{
-			`{"name": "Monkey"}[fn(x) { x }];`,
+			`{"name": "monkey"}[fn(x) { x }];`,
 			"unusable as hash key: FUNCTION",
 		},
 	}

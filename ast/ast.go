@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"monkey/token"
+	"rmuell9.interpreter/token"
 	"bytes"
 	"strings"
 )

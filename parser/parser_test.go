@@ -2,8 +2,8 @@ package parser
 
 import (
 	"testing"
-	"monkey/ast"
-	"monkey/lexer"
+	"rmuell9.interpreter/ast"
+	"rmuell9.interpreter/lexer"
 	"fmt"
 )
 

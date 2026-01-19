@@ -2,9 +2,9 @@ package parser
 
 import (
 	"fmt"
-	"monkey/ast"
-	"monkey/lexer"
-	"monkey/token"
+	"rmuell9.interpreter/ast"
+	"rmuell9.interpreter/lexer"
+	"rmuell9.interpreter/token"
 	"strconv"
 )
 

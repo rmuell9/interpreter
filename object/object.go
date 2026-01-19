@@ -2,7 +2,7 @@ package object
 
 import (
 	"fmt"
-	"monkey/ast"
+	"rmuell9.interpreter/ast"
 	"strings"
 	"bytes"
 	"hash/fnv"

@@ -1,8 +1,8 @@
 package evaluator
 
 import (
-	"monkey/ast"
-	"monkey/object"
+	"rmuell9.interpreter/ast"
+	"rmuell9.interpreter/object"
 	"fmt"
 )
 
@@ -294,7 +294,7 @@ func evalIdentifier(
 		return builtin
 	}
 
-	return newError("identifier not found: " + node.Value)
+	return newError("identifier not found: %s", node.Value)
 
 }
 

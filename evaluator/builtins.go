@@ -2,7 +2,7 @@ package evaluator
 
 import (
 	"fmt"
-	"monkey/object"
+	"rmuell9.interpreter/object"
 	// "unicode/utf8"
 )
 
