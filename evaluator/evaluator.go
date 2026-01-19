@@ -1,8 +1,8 @@
 package evaluator
 
 import (
-	"rmuell9.interpreter/ast"
-	"rmuell9.interpreter/object"
+	"interpreter/ast"
+	"interpreter/object"
 	"fmt"
 )
 

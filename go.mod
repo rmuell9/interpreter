@@ -1,3 +1,3 @@
-module rmuell9.interpreter
+module interpreter
 
 go 1.25.6

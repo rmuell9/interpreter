@@ -1,9 +1,9 @@
 package evaluator
 
 import (
-	"rmuell9.interpreter/lexer"
-	"rmuell9.interpreter/object"
-	"rmuell9.interpreter/parser"
+	"interpreter/lexer"
+	"interpreter/object"
+	"interpreter/parser"
 	"testing"
 )
 

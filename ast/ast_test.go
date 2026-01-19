@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"rmuell9.interpreter/token"
+	"interpreter/token"
 	"testing"
 )
 

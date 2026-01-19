@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"rmuell9.interpreter/repl"
+	"interpreter/repl"
 )
 
 func main() {
